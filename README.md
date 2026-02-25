@@ -12,9 +12,9 @@
 
 在开始敲代码前，我倾向于通过高水平的科普视频建立大体上的感性认识：
 
-- 🎥 [机器学习&人工智能导论](https://www.bilibili.com/video/BV1atCRYsE7x/) (建立宏观视野)
-- 🧠 [90分钟一口气搞懂神经网络](https://www.bilibili.com/video/BV1idpkzsEwZ/) (清华博士带练)
-- 🔢 [3Blue1Brown：深度学习核心知识点](https://www.bilibili.com/video/BV1EW411u7th/) (数学直觉的巅峰)
+- 🎥 [机器学习&人工智能导论](https://www.bilibili.com/video/BV1EW411u7th?p=34) (建立宏观视野)
+- 🧠 [90分钟一口气搞懂神经网络](https://www.bilibili.com/video/BV1atCRYsE7x/) (清华博士：从神经元到反向传播)
+- 🔢 [3Blue1Brown：深度学习核心知识点](https://www.bilibili.com/video/BV1idpkzsEwZ/) (数学直觉的巅峰：可视化理解深度学习)
 
 ### 2. 代码实操 (Hands-on Implementation)
 
