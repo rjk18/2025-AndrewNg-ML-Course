@@ -74,5 +74,5 @@
 
 - [Sanzo00/ML-homework](https://github.com/Sanzo00/ML-homework) (吴恩达机器学习作业参考)
 - [fengdu78/AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) (吴恩达老师课程个人笔记)
-- [10分钟入门神经网络 PyTorch 手写数字识别](https://www.bilibili.com/video/BV1EW411u7th/)
+- [10分钟入门神经网络 PyTorch 手写数字识别](https://www.bilibili.com/video/BV1GC4y15736/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=4ca372d32dfd5bce8f9dec4e91bb206a)
 
