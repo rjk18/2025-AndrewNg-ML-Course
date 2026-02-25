@@ -24,9 +24,37 @@
 
 ------
 
-## 核心成果可视化 (Visual Results)📈 
+## 📈 核心成果可视化 (Visual Results)
 
-> **Tip:** 在下方插入你运行代码后生成的截图（如 `loss_curve.png`），能更直观地证明模型的有效性。
+### 1. 线性回归：拟合与收敛
+展示模型如何通过梯度下降一步步捕捉数据趋势，并验证 Loss 是否平滑下降。
+
+| 线性拟合效果 (Linear Fit) | 损失函数下降曲线 (Cost Curve) |
+| :---: | :---: |
+| <img src="output/1_线性回归/1_1_linear_fit.png" width="400"> | <img src="output/1_线性回归/1_1_cost_curve.png" width="400"> |
+
+### 2. 逻辑回归：决策边界与正则化
+通过调整 $\lambda$ 参数，观察模型如何在“欠拟合”与“过拟合”之间寻找平衡。
+
+| 决策边界 (Decision Boundary) | 不同 $\lambda$ 值效果对比 |
+| :---: | :---: |
+| <img src="output/2_逻辑回归/2_2_决策边界.png" width="400"> | <img src="output/2_逻辑回归/2_3_不同λ值比较.png" width="400"> |
+
+### 3. 神经网络：手写数字识别 (MNIST)
+对比 TensorFlow 与 PyTorch 实现，并使用混淆矩阵评估多分类表现。
+
+| 识别结果展示 (Prediction) | 混淆矩阵 (Confusion Matrix) |
+| :---: | :---: |
+| <img src="output/4_神经网络/4_2_手写数字识别结果.png" width="400"> | <img src="output/4_神经网络/4_1_混淆矩阵.png" width="400"> |
+
+### 4. 模型诊断：偏差与方差分析
+通过学习曲线（Learning Curve）诊断模型状态，指导下一步优化方向。
+
+| 不同 $\lambda$ 拟合对比 | 线性学习曲线 (Learning Curve) |
+| :---: | :---: |
+| <img src="output/5_偏差方差/5_2_不同lambda拟合效果对比.png" width="400"> | <img src="output/5_偏差方差/5_2_线性学习曲线.png" width="400"> |
+
+---
 
 ### 1. 线性/逻辑回归拟合
 
